@@ -4,9 +4,13 @@
 ## 资源
 来[豆瓣小组Women In Tech 女性科技从业者集合地](https://www.douban.com/group/womenintech/)来找到我们
 来[Telegram泛宇宙姐妹chat](https://t.me/kejijiemeichat)找到我们
+来公众号：WomenInTech泛宇宙科技姐妹找到我们
 
 ## 小组规则
 [github](https://github.com/e-razorhead/womenintechcn/blob/main/%E8%B1%86%E7%93%A3%E5%B0%8F%E7%BB%84%E8%A7%84%E5%88%99.md)
+
+## 小组备份
+请看repo的folder
 
 ## 中文女性科技从业者指南wiki
 1. 了解科技互联网行业的不同岗位
